@@ -3,10 +3,9 @@
 
 
 
-##Installation
-
->cd Dwm
->make
->sudo make clean install
+## Installation
+ > cd Dwm
+ > make
+ > sudo make clean install
 
 
